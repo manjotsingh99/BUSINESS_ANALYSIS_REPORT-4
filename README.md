@@ -1,5 +1,6 @@
 # OPEN THE IPYNB FILE TO CHECK THE DETAILED REPORT
 # BUSINESS_ANALYSIS_REPORT-4
+# New York City property
 This dataset is a record of every building or building unit (apartment, etc.) sold in the New York City property market over a 12-month period. This dataset contains the location, address, type, sale price, and sale date of building units sold.
 # PYTHON LIBRARIES USED:
 1. PANDAS
